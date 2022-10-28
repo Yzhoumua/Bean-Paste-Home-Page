@@ -1,0 +1,20 @@
+.left{
+    float: left;
+}
+.right{
+    float: right;
+}
+.auto{
+    margin: 0 auto;
+}
+.h1Font-color{
+    color: #072;
+    font-size: 15px;
+}
+.hover{
+    color: rgb(51, 119, 170);
+}
+.hover:hover{
+    color: #fff;
+    background: #37a;
+}

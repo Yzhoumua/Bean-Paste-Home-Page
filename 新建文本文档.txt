@@ -1,0 +1,3 @@
+遇到的问题：
+ol给有序列表设置内边距：padding-inline-start: 18px;
+图片浮动不掉下去，设置行级块盒，文本设置上对齐：vertical-align: top;
